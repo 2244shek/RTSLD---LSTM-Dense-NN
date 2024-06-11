@@ -20,10 +20,10 @@ This repository contains the implementation of the RTSLD (Real-Time Sign Languag
 
 
 
-> Note: Use `pip install module_name` to install dependencies ,if any requirement is not fulfilled while running the project in your system.
+> **Note :** Use `pip install module_name` to install dependencies ,if any requirement is not fulfilled while running the project in your system.
 
 ## Contributors to the project
 - [Abhishek Panigrahi](https://abhishekpanigrahi-self.vercel.app/)
 - [Shrestha Sinha](https://www.linkedin.com/in/shrestha-sinha-5a4488250/)
 
->> The presention ppt has been uploaded to the repository named as "Final PPT". This includes teh Abstract as well as Literature Review about the project. The ppt also includes other needed documentation about the project.
+> The presention ppt has been uploaded to the repository named as "Final PPT". This includes teh Abstract as well as Literature Review about the project. The ppt also includes other needed documentation about the project.
