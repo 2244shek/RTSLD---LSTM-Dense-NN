@@ -19,3 +19,7 @@ This repository contains the implementation of the RTSLD (Real-Time Sign Languag
 - Finally, Run the "**app.py**" file to detect & recognize the Sign Language actions in real time.
 
 > Note: Use `pip install module_name` to install dependencies ,if any requirement is not fulfilled while running the project in your system.
+
+## Contributors to the project
+- [Abhishek Panigrahi](https://abhishekpanigrahi-self.vercel.app/)
+- [Shrestha Sinha](https://www.linkedin.com/in/shrestha-sinha-5a4488250/)
