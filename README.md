@@ -9,3 +9,11 @@ This repository contains the implementation of the RTSLD (Real-Time Sign Languag
 - Dense Neural Network: Implement and train a Dense Neural Network for classification tasks.
 - Model Evaluation: Evaluate the performance of the models using various metrics.
 - Visualization: Plot and visualize the results for better understanding and analysis.
+
+## Installation & Usage
+- Clone the Repository
+- Install the required packages. (Using pip install ..)
+- Collect data for the alphabets manually by providing own dataset individualy for each instance by running "collectdata.py".
+- Preprocess the fetched image data by running the file named "function.py" and then running "data.py". This will generate a file with the images in their .npy format for feature extraction.
+- Then, train the model "trainmodel.py" in your local machine or in Google Collab. Extract the model (.json & .h5 format file) .
+- Finally, Run the "app.py" file to detect & recognize the Sign Language actions in real time. 
